@@ -1,0 +1,11 @@
+{
+  "name": "mail",
+  "module": "mail",
+  "action": "setup",
+  "options": {
+    "host": "smtp.stackmail.com",
+    "port": 465,
+    "password": "mypassword",
+    "username": "kapil@gmail.com"
+  }
+}
